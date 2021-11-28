@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+body {
+  text-align: center;
+  color: #4a4a55;
+  font-size: 16px;
+  font-family: "Overpass", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.text-accent {
+  color: #ff3e00;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+code {
+  background-color: #f6fafd;
+  color: #676778;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.text-dark {
+  color: #4a4a55;
+}
+
+.text-light {
+  color: #ffffff;
+}
+
+.text-accent {
+  color: #ff3e00;
+}
+
+.bg-primary {
+  background-color: #ff3e00;
+}
+
+.bg-secondary {
+  background-color: #3fb3ff;
+}
+
+.bg-tertiary {
+  background-color: #676778;
+}
+
+.bg-light {
+  background-color: #f6fafd;
+}
